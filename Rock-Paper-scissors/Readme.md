@@ -40,4 +40,7 @@ This is a simple **Rock Paper Scissors** game implemented in HTML, CSS, and Java
 - Expand options for game themes and color schemes.
 
 ---
+![2024-10-29](https://github.com/user-attachments/assets/4d0e177c-70e1-4540-b3b7-64424993a123)
+![2024-10-29 (1)](https://github.com/user-attachments/assets/e3b32d44-a9a8-4282-93ef-1ba43d32a8bb)
+
 
